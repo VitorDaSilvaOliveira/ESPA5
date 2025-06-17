@@ -1,8 +1,7 @@
 # ESPA5
 Repositório referente ao trabalho da matéria ESPA5 da turma de quinta feira
-//
-\n
-# Integrantes:
+
+## Integrantes:
 Vitor da Silva Oliveira  
 Matheus Prando Appolinário Barbosa
 Guilherme Akio Miura
